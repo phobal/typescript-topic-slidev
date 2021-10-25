@@ -10,5 +10,8 @@
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
   },
-  "name": "typescript-topic-ppt"
+  "name": "typescript-topic-ppt",
+  "devDependencies": {
+    "@iconify-json/ri": "^1.0.1"
+  }
 }
