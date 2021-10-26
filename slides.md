@@ -55,3 +55,55 @@ src: ./pages/basic/plus.md
 ---
 src: ./pages/basic/keyof.md
 ---
+
+---
+src: ./pages/basic/in-1.md
+---
+
+---
+src: ./pages/basic/in-2.md
+---
+
+---
+src: ./pages/basic/typeof.md
+---
+
+---
+src: ./pages/basic/never.md
+---
+
+---
+src: ./pages/basic/infer.md
+---
+
+---
+src: ./pages/basic/union.md
+---
+
+---
+src: ./pages/basic/intersection.md
+---
+
+---
+src: ./pages/basic/merge.md
+---
+
+---
+src: ./pages/basic/extends1.md
+---
+
+---
+src: ./pages/basic/extends2.md
+---
+
+---
+src: ./pages/basic/extends3.md
+---
+
+---
+src: ./pages/basic/extends4.md
+---
+
+---
+src: ./pages/basic/extends5.md
+---

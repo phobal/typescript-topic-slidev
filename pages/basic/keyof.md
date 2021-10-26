@@ -6,7 +6,7 @@ layout: 'center'
 
 在 TS 中 keyof T 表示获取类型 T 中所有的属性值，这些属性值组合成一个联合类型，例如：
 
-```ts
+```ts {6}
 type Person = {
   name: string;
   age: number;
