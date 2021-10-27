@@ -107,3 +107,35 @@ src: ./pages/basic/extends4.md
 ---
 src: ./pages/basic/extends5.md
 ---
+
+---
+src: ./pages/basic/function1.md
+---
+
+---
+src: ./pages/basic/function2.md
+---
+
+---
+src: ./pages/basic/function3.md
+---
+
+---
+src: ./pages/basic/function4.md
+---
+
+---
+src: ./pages/basic/function5.md
+---
+
+---
+src: ./pages/basic/function6.md
+---
+
+---
+src: ./pages/basic/function7.md
+---
+
+---
+src: ./pages/basic/function8.md
+---
