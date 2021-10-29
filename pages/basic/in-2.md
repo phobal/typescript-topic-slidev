@@ -16,7 +16,7 @@ type Person = {
   name: string;
   age: number;
 };
-// 结果：{ readony name: string; readonly age: number; }
+// 结果：{ readonly name: string; readonly age: number; }
 type result = Readonly<Person>;
 ```
 [P in keyof T]：这段代码表示遍历 T 中的每一个属性键，每次遍历时属性键取名为 P ，这和 JavaScript 中的 for in 非常类似：
