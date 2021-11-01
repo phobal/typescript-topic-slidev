@@ -29,6 +29,10 @@ drawings:
 </div>
 
 ---
+src: ./pages/info/principles.md
+---
+
+---
 layout: 'center'
 ---
 

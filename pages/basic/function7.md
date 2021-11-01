@@ -4,7 +4,7 @@ layout: 'center'
 
 # Generator 函数的定义
 
-Generator 函数返回的是一个 Iterator 迭代器对象，我们可以使用 Generator 的同名接口泛型或者 Iterator 的同名接口泛型（在 10 讲会介绍）表示返回值的类型（Generator 类型继承了 Iterator 类型）
+Generator 函数返回的是一个 Iterator 迭代器对象，我们可以使用 Generator 的同名接口泛型或者 Iterator 的同名接口泛型表示返回值的类型（Generator 类型继承了 Iterator 类型）
 
 ``` ts
 
