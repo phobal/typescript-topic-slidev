@@ -10,12 +10,6 @@ class: "text-center"
 highlighter: shiki
 # show line numbers in code blocks
 lineNumbers: false
-# some information about the slides, markdown enabled
-info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
 # persist drawings in exports and build
 drawings:
   persist: false
@@ -35,7 +29,6 @@ src: ./pages/info/principles.md
 ---
 layout: 'center'
 ---
-
 # TypeScript Challenge 是什么？
 
 ---
@@ -150,4 +143,20 @@ src: ./pages/basic/function7.md
 
 ---
 src: ./pages/basic/function8.md
+---
+
+---
+layout: 'center'
+---
+# 项目中常见的示例
+---
+src: ./pages/practise/tsDefined1.md
+---
+
+---
+src: ./pages/practise/tsDefined2.md
+---
+
+---
+src: ./pages/practise/tsDefined3.md
 ---
