@@ -7,10 +7,10 @@ layout: 'center'
 ### 类型守卫
 
 ``` ts
-type Dog {
+type Dog = {
   wang: string;
 }
-type Cat {
+type Cat = {
   miao: string;
 }
 

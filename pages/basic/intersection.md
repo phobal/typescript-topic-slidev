@@ -11,3 +11,5 @@ type result = T & U;
 ```
 
 `T & U` 表示一个新的类型，其中这个类型包含 `T` 和 `U` 中所有的键，这和 `JavaScript` 中的 `Object.assign()` 函数的作用非常类似。
+
+- [55 - Union to Intersection](https://tsch.js.org/55)

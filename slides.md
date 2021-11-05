@@ -62,15 +62,11 @@ src: ./pages/basic/in-2.md
 ---
 
 ---
-src: ./pages/basic/in-3.md
----
-
----
-src: ./pages/basic/in-4.md
----
-
----
 src: ./pages/basic/typeof.md
+---
+
+---
+src: ./pages/basic/asConst.md
 ---
 
 ---
@@ -159,4 +155,12 @@ src: ./pages/practise/tsDefined2.md
 
 ---
 src: ./pages/practise/tsDefined3.md
+---
+
+---
+src: ./pages/practise/tsDefined4.md
+---
+
+---
+src: ./pages/practise/interface.md
 ---
