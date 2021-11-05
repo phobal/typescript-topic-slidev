@@ -24,3 +24,4 @@ type test = "name" | "age" | never;
 type test = "name" | "age";
 ```
 
+- [尤雨溪对 never 的理解](https://www.zhihu.com/question/354601204)
